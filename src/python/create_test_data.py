@@ -7,5 +7,5 @@ print(df)
 
 df.to_csv('~/Development/Data/dummy.csv', index=False, encoding='utf-8')
 
-print('Done writing file')
+print('Done writing')
 
